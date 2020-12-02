@@ -6,4 +6,8 @@ __pycache__/
 env.py
 *.xlsx
 *.json
-*_lesson.ipynb
+*_lesson.*
+*.tgz
+data
+spark-warehouse
+source_*
